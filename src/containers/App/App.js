@@ -6,6 +6,23 @@ import 'moment/locale/es';
 
 moment.locale('es');
 
+/**
+ * -- primer paso
+ * día
+ * presión atmosférica
+ * velocidad del viento
+ * dirección del viento
+ * humedad
+ * descripción del clima
+ * ícono del clima
+ * temperatura mínima y máxima
+ * -- segundo paso
+ * Ciudad
+ * País
+ * -- tercer paso
+ * utilizar componente modal de material
+ */
+
 /*const days = [
   {
     day: 'Wed',
